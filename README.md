@@ -4,7 +4,7 @@ I'm Alina — an astrophysicist working on galaxy evolution, stellar populations
 I'm currently completing my PhD as a Marie Skłodowska-Curie fellow at the University of Padova.
 
 In this GitHub you can find:
-- [**skirt-run**](https://github.com/AIkhsanova/skirt-run) — scripts for generating mock galaxies using radiative transfer simulations (SKIRT)
+- [**skirt-run**](https://github.com/AIkhsanova/skirt-run) — scripts for generating mock galaxies using radiative transfer calculations (SKIRT)
 - [**LightCurve**](https://github.com/AIkhsanova/LightCurve) — modelling stellar light curves (course project)
 - [**DZ18**](https://github.com/AIkhsanova/DZ18) — automated test suite developed during the QA automation course (Tinkoff Fintech)
   
